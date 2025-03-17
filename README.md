@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Nirmal Naik! 👋</h1>
 
-I'm a **Data Engineer** passionate about building robust and scalable **data pipelines**, optimizing **big data workflows**, and enabling data-driven decision-making. With expertise in **Apache Spark, Databricks, and cloud technologies (AWS & Azure)**, I focus on **ETL, data warehousing, and real-time data processing** to transform raw data into actionable insights.
+I'm a **Databricks Certified Data Engineer** passionate about building robust and scalable **data pipelines**, optimizing **big data workflows**, and enabling data-driven decision-making. With expertise in **Apache Spark, Databricks, and cloud technologies (AWS & Azure)**, I focus on **ETL, data warehousing, and real-time data processing** to transform raw data into actionable insights.
 
 ## Skills & Technologies
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif"></img>
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif"></img>
 - **Data Engineering:** ETL Pipeline Development, Data Warehousing, Data Modeling, Real-Time Data Processing
 - **Big Data Technologies:** Apache Spark, Hadoop, Databricks (Delta Lake, Lakehouse, Delta Live Tables, Unity Catalog)
 - **Cloud Platforms:** Azure (Data Factory, Databricks, Synapse Analytics), AWS (Lambda, S3, Glue, Athena)
