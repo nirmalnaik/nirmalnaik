@@ -1,11 +1,23 @@
 <h1 align="center">Hi there, I'm Nirmal Naik! 👋</h1>
 
-I am a passionate Data Engineer and a graduate student at Trent University studying Applied Modelling and Quantitative Methods (M.Sc.). I have a strong background in data engineering, big data, and data analysis, with hands-on experience in a variety of tools and technologies.
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif">
+I'm a **Data Engineer** passionate about building robust and scalable **data pipelines**, optimizing **big data workflows**, and enabling data-driven decision-making. With expertise in **Apache Spark, Databricks, and cloud technologies (AWS & Azure)**, I focus on **ETL, data warehousing, and real-time data processing** to transform raw data into actionable insights.
 
-- 💼 Looking for opportunities in the field of Data Engineering, Big Data, and Data Analysis.
-- 👨‍💻 All of my projects are available at [https://github.com/nirmalnaik?tab=repositories](https://github.com/nirmalnaik?tab=repositories)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nirmal-naik/) | Email: nirmalnaikca@gmail.com
+## Skills & Technologies
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif"></img>
+- **Data Engineering:** ETL Pipeline Development, Data Warehousing, Data Modeling, Real-Time Data Processing
+- **Big Data Technologies:** Apache Spark, Hadoop, Databricks (Delta Lake, Lakehouse, Delta Live Tables, Unity Catalog)
+- **Cloud Platforms:** Azure (Data Factory, Databricks, Synapse Analytics), AWS (Lambda, S3, Glue, Athena)
+- **Programming & Databases:** Python, SQL, Java, PostgreSQL, MySQL
+- **Data Orchestration:** Apache Airflow, Snowflake
+- **Visualization & BI:** Power BI, Tableau
+- **DevOps & Version Control:** Git, GitHub, Docker
+
+## Certifications
+- [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/a44c2b63-ce4b-4779-8173-b55643bc23c7#acc.xp1Q7MdH)
+- [Academy Accreditation - AWS Databricks Platform Architect](https://credentials.databricks.com/c94c1534-16d4-40fc-9b4e-07bd60da76f6#acc.2s9t5WUH)
+- [Academy Accreditation - Databricks Lakehouse Fundamentals](https://credentials.databricks.com/0009e2d0-8748-4fc7-a60b-caba8d66c784#acc.U24T87wC)
+- [HackerRank SQL (Advanced) Certification](https://www.hackerrank.com/certificates/35dcedd7f924)
+- [HackerRank SQL (Intermediate) Certification](https://www.hackerrank.com/certificates/09eecc6dd1d7)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
